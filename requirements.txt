@@ -1,0 +1,7 @@
+transformers 
+Pillow 
+opencv-python 
+torch
+gtts
+pygame
+speech_recognition
