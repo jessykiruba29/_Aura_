@@ -1,10 +1,10 @@
-SmartCap
+Aura
 ========
 
 AI-Powered Assistive Vision System
 ----------------------------------
 
-SmartCap is a real-time AI vision assistant designed to support visually impaired individuals in understanding their surroundings and locating objects through voice guidance.
+Aura is a real-time AI vision assistant designed to support visually impaired individuals in understanding their surroundings and locating objects through voice guidance.
 
 The system integrates computer vision, speech recognition, and speech synthesis to create a fully hands-free assistive navigation experience.
 
@@ -13,7 +13,7 @@ The system integrates computer vision, speech recognition, and speech synthesis 
 1\. Overview
 ------------
 
-SmartCap operates in two primary modes:
+Aura operates in two primary modes:
 
 ### 1\. Scene Understanding
 
@@ -83,7 +83,7 @@ Example output:
 3\. System Architecture
 -----------------------
 
-SmartCap integrates multiple AI components into a unified pipeline.
+Aura integrates multiple AI components into a unified pipeline.
 
 ### Core Components
 
@@ -315,4 +315,4 @@ Navigate to the project directory and execute:
 13\. Project Objective
 ----------------------
 
-SmartCap aims to provide an affordable and scalable AI-powered assistive solution that enhances independence and situational awareness for visually impaired individuals.
+Aura aims to provide an affordable and scalable AI-powered assistive solution that enhances independence and situational awareness for visually impaired individuals.
